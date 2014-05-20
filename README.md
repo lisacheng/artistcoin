@@ -1,7 +1,4 @@
-artistcoin
-==========
 
-Artist Coin Whitepaper
 Artist Coin concept whitepaper
 
 
