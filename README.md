@@ -4,7 +4,7 @@
 3. Crowd Sale 
 4. Particpants
 5. Conclusion
-6. Appendix - Prize Descriptions 
+
 
 
 Introduction
