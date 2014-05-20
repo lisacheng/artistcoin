@@ -1,0 +1,4 @@
+artistcoin
+==========
+
+Artist Coin Whitepaper
